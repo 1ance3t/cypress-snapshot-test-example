@@ -1,0 +1,32 @@
+{
+  "name": "cypress-snapshot-test-example",
+  "version": "1.0.0",
+  "description": "Snapshot test example on Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ance3t/cypress-snapshot-test-example.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress.io",
+    "snapshot",
+    "snapshot",
+    "example",
+    "cypress",
+    "snapshot"
+  ],
+  "author": "Danil Kozlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ance3t/cypress-snapshot-test-example/issues"
+  },
+  "homepage": "https://github.com/1ance3t/cypress-snapshot-test-example#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "@cypress/snapshot": "^2.1.7"
+  }
+}
